@@ -32,6 +32,10 @@
 
 - [Introducing GraphMan: instantly scaffold a Postman collection for your GraphQL API](https://escape.tech/blog/graphman-instantly-scaffold-a-postman-collection-for-your-graphql-api/)
 
+<h3 align="left">My contributions:</h3>   
+
+@todo
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
