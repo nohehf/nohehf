@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **RUST 🦀** & **Electronic music production 🔊**
 
-- ☁️ I'd like to learn **Game dev**
+- ☁️ I'd like to learn **Game dev 🕹️** & **WebGL/Threejs 🖌️**
 
 - 🫥 I need to rebuild my portfolio
 
