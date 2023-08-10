@@ -8,8 +8,6 @@
 
 - ☁️ I'd like to learn **Game dev 🕹️** & **WebGL/Threejs 🖌️**
 
-- 🫥 I need to rebuild my portfolio
-
 <h3 align="left">My projects:</h3>  
 
 - [Goctopus: State-of-the-art GraphQL endpoint fingerprinting & discovery](https://github.com/Escape-Technologies/goctopus)
